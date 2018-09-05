@@ -1,1 +1,1 @@
-# Common-Structured-Logs-Framework
+# Common Structured Logs Framework
