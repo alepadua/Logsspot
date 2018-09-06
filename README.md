@@ -1,1 +1,1 @@
-# Common Structured Logs Framework
+# Logsspot
