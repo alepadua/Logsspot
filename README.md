@@ -9,7 +9,7 @@ The technologies are analyzed according to it's kind, as firewalls, IPS and Endp
 
 # Methodology
 
-We first analyze if the logs provided have the same information as presented on it's GUI and if the log itself is enough to help to detect and investigate something.
+ Technology is analyzed to define what are it's capabilities of detection. Then, the logs are analyzed to compare if the info generated is the same presented on it's GUI. This way it's possible to establish a log quality, and if the log itself is enough to help to detect and investigate something.
 
 # Objective
 
