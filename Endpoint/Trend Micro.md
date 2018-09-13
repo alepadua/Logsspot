@@ -14,8 +14,11 @@ Logs with ID between 1.000.000-1.999.999 are related to IPS rules. This way, ale
 ## Resources
 
 [General events info](https://help.deepsecurity.trendmicro.com/Events-Alerts/events.html)
+
 [Events and parsing](https://help.deepsecurity.trendmicro.com/10/0/Events-Alerts/syslog-parsing.html)
+
 [System events](https://help.deepsecurity.trendmicro.com/Events-Alerts/ref-events-system.html)
+
 [Log forward configuration](https://help.deepsecurity.trendmicro.com/siem-syslog-forwarding-secure.html)
 
 
