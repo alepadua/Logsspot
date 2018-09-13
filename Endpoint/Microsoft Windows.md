@@ -4,7 +4,7 @@ Detection Categories
 
 
 
-| Event ID      | Description   | Detection Category | Tips | Reference Link |
+| Event ID      | Description   | Detection Category | Tips | ATT&CK | 
 | ------------- | ------------- | ------------------ | ---- | -------------- |
 | Content Cell  | Content Cell  | ------------------ | ---- | -------------- |
 | Content Cell  | Content Cell  | ------------------ | ---- | -------------- |
