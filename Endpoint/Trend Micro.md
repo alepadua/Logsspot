@@ -26,7 +26,7 @@ Logs with ID between 1.000.000-1.999.999 are related to IPS rules. This way, ale
 
 ## Resources
 
-[Event ID Reference]https://esupport.trendmicro.com/media/12427900/List%20of%20Event%20IDs%20used%20By%20OSCE%2010.6.txt
+[Event ID Reference](https://esupport.trendmicro.com/media/12427900/List%20of%20Event%20IDs%20used%20By%20OSCE%2010.6.txt)
 
 # Others
 
