@@ -32,4 +32,4 @@ Logs with ID between 1.000.000-1.999.999 are related to IPS rules. This way, ale
 
 ## Resources
 
-[Threat names](https://www.trendmicro.com/vinfo/us/threat-encyclopedia)
+[Threat names, vulnerabilities](https://www.trendmicro.com/vinfo/us/threat-encyclopedia)
