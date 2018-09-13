@@ -6,8 +6,8 @@ Detection Categories
 
 | Event ID      | Description   | Detection Category | Tips | ATT&CK | 
 | ------------- | ------------- | ------------------ | ---- | -------------- |
-| Content Cell  | Content Cell  | ------------------ | ---- | -------------- |
-| Content Cell  | Content Cell  | ------------------ | ---- | -------------- |
+| 4688  | A new process has been created | ------------------ | ---- | -------------- |
+| 4689  | A process has exited  | ------------------ | ---- | -------------- |
 
 
 
