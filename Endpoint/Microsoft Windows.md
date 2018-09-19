@@ -8,11 +8,11 @@ Detection Categories, following Microsoft standard.
 
 
 
-| Event ID      | Description   | Detection Category | Tips | ATT&CK | What to monitor | Enable |
-| ------------- | ------------- | ------------------ | ---- | -------------- | ---- | -- |
-| 4688  | A new process has been created | ------------------ | ---- | -------------- |---- | -- |
-| 4689  | A process has exited  | ------------------ | ---- | -------------- |---- | - |
-| 4720  | A User account was created  | User Account Management | ---- | -------------- | Every event | Default|
+| Event ID      | Description   | Detection Category | Tips | ATT&CK | What to monitor | Enable | Hunting Aproach |
+| ------------- | ------------- | ------------------ | ---- | -------------- | ---- | -- | - |
+| 4688  | A new process has been created | ------------------ | ---- | -------------- |---- | -- | - |
+| 4689  | A process has exited  | ------------------ | ---- | -------------- |---- | - | - |
+| 4720  | A User account was created  | User Account Management | ---- | -------------- | Every event | Default| Victim |
 
 
 
