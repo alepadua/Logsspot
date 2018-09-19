@@ -1,13 +1,19 @@
-Detection Categories
+Many of the information here is available on Microsoft site.
 
--User/Group behavior
+Detection Categories, following Microsoft standard.
+
+-User Account Management
+-Computer Account Management
 
 
 
-| Event ID      | Description   | Detection Category | Tips | ATT&CK | 
-| ------------- | ------------- | ------------------ | ---- | -------------- |
-| 4688  | A new process has been created | ------------------ | ---- | -------------- |
-| 4689  | A process has exited  | ------------------ | ---- | -------------- |
+
+| Event ID      | Description   | Detection Category | Tips | ATT&CK | What to monitor |
+| ------------- | ------------- | ------------------ | ---- | -------------- | ---- |
+| 4688  | A new process has been created | ------------------ | ---- | -------------- |---- |
+| 4689  | A process has exited  | ------------------ | ---- | -------------- |---- |
+| 4720  | A User account was created  | User Account Management | ---- | -------------- | Every event |
+
 
 
 
