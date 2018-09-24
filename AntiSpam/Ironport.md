@@ -2,6 +2,8 @@ Before jumping into logs, it's higly recommended to take a look on the mail flow
 
 Most of the information here provided, is based on Cisco official documentation located here [Mail Flow Documentation](https://www.cisco.com/c/en/us/td/docs/security/esa/esa11-1/user_guide/b_ESA_Admin_Guide_11_1/b_ESA_Admin_Guide_chapter_011.pdf)
 
+##Mail Flow
+
 Cisco split email flow in 3 phases, described below and 
 
 Receiving Email Connections
@@ -17,5 +19,39 @@ AMP
 Content Filters
 Outbreak Filters
 
+##Collecting logs
+
 In order to collect logs via syslogs, you need to create subscriptions to each target log.
 The log types are available in this link: [ESA Logs and Subscriptions](https://www.cisco.com/c/en/us/td/docs/security/esa/esa11-1/user_guide/b_ESA_Admin_Guide_11_1/b_ESA_Admin_Guide_11_1_chapter_0100111.pdf)
+
+
+##Subscriptions and Log Types
+
+The most common log type is 
+
+-Text Mail Logs
+-Delivery Logs
+-Bounce Logs
+-Status Logs
+-Domain Debug Logs
+-Injection Debug Logs
+-System Logs
+-CLI Audit Logs
+-FTP Server Logs
+-HTTP Logs
+-NTP Logs
+-Scanning Logs
+-Anti-Spam Logs
+-Graymail Logs
+-Anti-Virus Logs
+-AMP Engine Logs
+-Spam Quarantine Logs
+-Spam Quarantine GUI Logs
+-LDAP Debug Logs
+-Safelist/Blocklist Logs
+-Reporting Logs
+-Reporting Query Logs
+-Updater Logs
+-tanding Tracking Logs
+-Authentication Logs
+-Configuration History Logs
