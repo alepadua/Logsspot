@@ -29,7 +29,11 @@ The log types are available in this link: [ESA Logs and Subscriptions](https://w
 
 The available log types are:
 
--Text Mail Logs
+| Log Type  | Description | Pre-ATT&CK | What to monitor | Enable |
+| Text Mail Logs | ---- |---- |---- |---- |
+
+
+
 -Delivery Logs
 -Bounce Logs
 -Status Logs
