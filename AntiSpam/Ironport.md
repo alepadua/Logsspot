@@ -35,35 +35,31 @@ The available log types are:
 | Mail | --- | --- | --- | --- | yes |
 | LDAP | --- | --- | --- | --- | yes |
 | System | --- | --- | --- | --- | yes |
-| --- |--- | --- | --- | --- | --- | yes |
-
-
-
--Delivery Logs
--Bounce Logs
--Status Logs
--Domain Debug Logs
--Injection Debug Logs
--System Logs
--CLI Audit Logs
--FTP Server Logs
--HTTP Logs
--NTP Logs
--Scanning Logs
--Anti-Spam Logs
--Graymail Logs
--Anti-Virus Logs
--AMP Engine Logs
--Spam Quarantine Logs
--Spam Quarantine GUI Logs
--LDAP Debug Logs
--Safelist/Blocklist Logs
--Reporting Logs
--Reporting Query Logs
--Updater Logs
--tanding Tracking Logs
--Authentication Logs
--Configuration History Logs
+| Delivery | ---- | ---- | ---- | ---- | ---- |
+| Bounce | ---- | ---- | ---- | ---- | ---- |
+| Status | ---- | ---- | ---- | ---- | ---- |
+| Domain Debug | ---- | ---- | ---- | ---- | ---- |
+| Injection Debug | ---- | ---- | ---- | ---- | ---- |
+| System | ---- | ---- | ---- | ---- | ---- |
+| CLI Audit | ---- | ---- | ---- | ---- | ---- |
+| FTP Server | ---- | ---- | ---- | ---- | ---- |
+| HTTP | ---- | ---- | ---- | ---- | ---- |
+| NTP | ---- | ---- | ---- | ---- | ---- |
+| Scanning | ---- | ---- | ---- | ---- | ---- |
+| Anti-Spam | ---- | ---- | ---- | ---- | ---- |
+| Graymail | ---- | ---- | ---- | ---- | ---- |
+| Anti-Virus | ---- | ---- | ---- | ---- | ---- |
+| AMP Engine | ---- | ---- | ---- | ---- | ---- |
+| Spam Quarantine | ---- | ---- | ---- | ---- | ---- |
+| Spam Quarantine GUI | ---- | ---- | ---- | ---- | ---- |
+| LDAP Debug | ---- | ---- | ---- | ---- | ---- |
+| Safelist/Blocklist | ---- | ---- | ---- | ---- | ---- |
+| Reporting | ---- | ---- | ---- | ---- | ---- |
+| Reporting Query | ---- | ---- | ---- | ---- | ---- |
+| Updater | ---- | ---- | ---- | ---- | ---- |
+| Tracking | ---- | ---- | ---- | ---- | ---- |
+| Authentication | ---- | ---- | ---- | ---- | ---- |
+| Configuration History | ---- | ---- | ---- | ---- | ---- |
 
 
 ## Tips
