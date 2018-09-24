@@ -32,10 +32,10 @@ The available log types are:
 | Log Type  | Description | Pre-ATT&CK | What to monitor | Enable | Timestamp |
 |-----------| ----------- | ---------- | --------------- | ------ | --------- |
 | Text Mails | ---- |---- |---- |---- | yes |
-| Mail --- | --- | --- | --- | --- |
-| LDAP --- | --- | --- | --- | --- |
-| System --- | --- | --- | --- | --- |
-| --- |--- | --- | --- | --- | --- |
+| Mail | --- | --- | --- | --- | yes |
+| LDAP | --- | --- | --- | --- | yes |
+| System | --- | --- | --- | --- | yes |
+| --- |--- | --- | --- | --- | --- | yes |
 
 
 
