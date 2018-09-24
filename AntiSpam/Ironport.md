@@ -67,3 +67,9 @@ The available log types are:
 Ironport Antivirus logs
 
 When a virus is found, two log entries are generated. One with the malware signature that can be consulted on Talos Intelligence and other confirming message was dropped. (Validate conditions)
+
+## Improvements
+
+Ironport Antivirus logs
+
+One good improvement would be having the hash of the samples on the log. Just remembering the AV engine on Ironport appliances are Sophos or McAfee. This [signature](https://www.sophos.com/en-us/threat-center/threat-analyses/viruses-and-spyware/CXmail~VBSDl-A.aspx), very common on spam doesn't give us useful information. 
