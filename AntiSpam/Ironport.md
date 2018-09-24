@@ -27,7 +27,7 @@ The log types are available in this link: [ESA Logs and Subscriptions](https://w
 
 ##Subscriptions and Log Types
 
-The most common log type is 
+The available log types are:
 
 -Text Mail Logs
 -Delivery Logs
