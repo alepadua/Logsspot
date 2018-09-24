@@ -64,3 +64,10 @@ The available log types are:
 -tanding Tracking Logs
 -Authentication Logs
 -Configuration History Logs
+
+
+## Tips
+
+Ironport Antivirus logs
+
+When a virus is found, two log entries are generated. One with the malware signature that can be consulted on Talos Intelligence and other confirming message was dropped. (Validate conditions)
