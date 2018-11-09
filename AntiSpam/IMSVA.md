@@ -1,3 +1,9 @@
+
+Log Types:
+
+https://success.trendmicro.com/solution/1055422-logs-created-by-interscan-messaging-security-suite-imss-7-1-for-linux
+
+
 Log Types on UI:
 
 -Message Tracking
