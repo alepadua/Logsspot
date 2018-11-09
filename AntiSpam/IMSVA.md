@@ -8,3 +8,5 @@ Log Types on UI:
 -MTA Events
 -Sender Filtering
 
+Daemon logs location
+https://success.trendmicro.com/solution/1095889-deamon-logs-for-interscan-messaging-security-virtual-appliance-imsva
