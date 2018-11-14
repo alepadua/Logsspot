@@ -16,3 +16,6 @@ Log Types on UI:
 
 Daemon logs location
 https://success.trendmicro.com/solution/1095889-deamon-logs-for-interscan-messaging-security-virtual-appliance-imsva
+
+Threat Detection schema
+https://success.trendmicro.com/solution/1119738-new-threat-detection-naming-scheme-in-trend-micro
