@@ -19,3 +19,8 @@ https://success.trendmicro.com/solution/1095889-deamon-logs-for-interscan-messag
 
 Threat Detection schema
 https://success.trendmicro.com/solution/1119738-new-threat-detection-naming-scheme-in-trend-micro
+
+
+Documentation of logs.
+PS: This one was hard to find AND have japanese contents.
+https://esupport.trendmicro.com/media/13919606/LogFormat_rev3.pdf
